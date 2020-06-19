@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"hw4.shop.data","c":"VideoTEST","l":"testCompareTo()"},{"p":"hw4.shop.data","c":"VideoTEST","l":"testEquals()"},{"p":"hw4.shop.data","c":"VideoTEST","l":"testHashCode()"},{"p":"hw4.shop.data","c":"VideoTEST","l":"VideoTEST(String)","url":"%3Cinit%3E(java.lang.String)"}]
